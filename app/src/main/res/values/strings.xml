@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SolucionExamenEval1</string>
+    <string name="app_label">Label</string>
+    <string name="search_hint">Hint</string>
+</resources>
