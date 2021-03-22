@@ -1,4 +1,4 @@
-package com.cbellmont.solucionexameneval1
+package com.cbellmont.searchbar
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

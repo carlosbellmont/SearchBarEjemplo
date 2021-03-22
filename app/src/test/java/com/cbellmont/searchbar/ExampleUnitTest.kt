@@ -1,4 +1,4 @@
-package com.cbellmont.solucionexameneval1
+package com.cbellmont.searchbar
 
 import org.junit.Test
 
